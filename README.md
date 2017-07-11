@@ -1,2 +1,2 @@
-# messagebroker
+# GIGMSN Message Broker
 RabbitMQ client
